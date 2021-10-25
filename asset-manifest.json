@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/http//:yaserfahed.github.io/website_react/static/css/main.7f6563ce.chunk.css",
-    "main.js": "/http//:yaserfahed.github.io/website_react/static/js/main.598b3bca.chunk.js",
-    "main.js.map": "/http//:yaserfahed.github.io/website_react/static/js/main.598b3bca.chunk.js.map",
-    "runtime-main.js": "/http//:yaserfahed.github.io/website_react/static/js/runtime-main.ad7f32e1.js",
-    "runtime-main.js.map": "/http//:yaserfahed.github.io/website_react/static/js/runtime-main.ad7f32e1.js.map",
-    "static/js/2.cb6ec6de.chunk.js": "/http//:yaserfahed.github.io/website_react/static/js/2.cb6ec6de.chunk.js",
-    "static/js/2.cb6ec6de.chunk.js.map": "/http//:yaserfahed.github.io/website_react/static/js/2.cb6ec6de.chunk.js.map",
-    "static/js/3.04881155.chunk.js": "/http//:yaserfahed.github.io/website_react/static/js/3.04881155.chunk.js",
-    "static/js/3.04881155.chunk.js.map": "/http//:yaserfahed.github.io/website_react/static/js/3.04881155.chunk.js.map",
-    "index.html": "/http//:yaserfahed.github.io/website_react/index.html",
-    "static/css/main.7f6563ce.chunk.css.map": "/http//:yaserfahed.github.io/website_react/static/css/main.7f6563ce.chunk.css.map",
-    "static/js/2.cb6ec6de.chunk.js.LICENSE.txt": "/http//:yaserfahed.github.io/website_react/static/js/2.cb6ec6de.chunk.js.LICENSE.txt"
+    "main.css": "/Movie/static/css/main.7f6563ce.chunk.css",
+    "main.js": "/Movie/static/js/main.598b3bca.chunk.js",
+    "main.js.map": "/Movie/static/js/main.598b3bca.chunk.js.map",
+    "runtime-main.js": "/Movie/static/js/runtime-main.72a5a8d2.js",
+    "runtime-main.js.map": "/Movie/static/js/runtime-main.72a5a8d2.js.map",
+    "static/js/2.cb6ec6de.chunk.js": "/Movie/static/js/2.cb6ec6de.chunk.js",
+    "static/js/2.cb6ec6de.chunk.js.map": "/Movie/static/js/2.cb6ec6de.chunk.js.map",
+    "static/js/3.04881155.chunk.js": "/Movie/static/js/3.04881155.chunk.js",
+    "static/js/3.04881155.chunk.js.map": "/Movie/static/js/3.04881155.chunk.js.map",
+    "index.html": "/Movie/index.html",
+    "static/css/main.7f6563ce.chunk.css.map": "/Movie/static/css/main.7f6563ce.chunk.css.map",
+    "static/js/2.cb6ec6de.chunk.js.LICENSE.txt": "/Movie/static/js/2.cb6ec6de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad7f32e1.js",
+    "static/js/runtime-main.72a5a8d2.js",
     "static/js/2.cb6ec6de.chunk.js",
     "static/css/main.7f6563ce.chunk.css",
     "static/js/main.598b3bca.chunk.js"
